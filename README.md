@@ -2,7 +2,7 @@
 
 Detecting fraudulent card transactions in a dataset where only **0.17%** of transactions are fraud, with a tuned decision threshold, SHAP explanations and an interactive Streamlit app.
 
-**Live app:** _add your Streamlit Cloud link here_
+**Live app:** https://fraud-detection-aziyaa.streamlit.app/
 
 ---
 
